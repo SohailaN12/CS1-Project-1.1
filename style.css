@@ -1,1 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Oswald:wght@200..700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+    background-color: rgb(194, 241, 227);
+    font-family: "Oswald", sans-serif;
+}
+
+h2 {
+    color: rgb(66, 106, 139);
+}
+
+img{
+    border-width: 25px;
+    border-style: groove;
+    border-color: rgb(224, 136, 224);
+    border-radius: 5%;
+    padding: 5px;
+}
+
+h1 { 
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    margin-bottom: 40px;
+}
+
+p {
+    color: rgb(223, 98, 150);
+    line-height: 1.6; 
+    padding: 5px; 
+}
+
+/* this is a commenet */
+
+/* select element by type */
+body {
+    font-family: "Archivo Black", sans-serif;
+    background-color: rgb(230, 218, 238);
+}
+
+h1, {
+    font-family: "Oswald", sans-serif;
+}
+
+
 
